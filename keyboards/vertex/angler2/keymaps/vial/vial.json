@@ -2,7 +2,6 @@
   "name": "AngleR2",
   "vendorId": "0x480E",
   "productId": "0x408F",
-  "lighting": "qmk_rgblight",
   "matrix": {"rows": 6, "cols": 16},
 "layouts": {
 "labels":[
