@@ -1,7 +1,7 @@
 {
-    "manufacturer": "Studio Kestra",
+    "manufacturer": "DLS",
     "keyboard_name": "Galatea",
-    "maintainer": "studiokestra",
+    "maintainer": "DLS",
     "bootloader": "atmel-dfu",
     "diode_direction": "COL2ROW",
     "features": {
